@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;td_check/src/mylib&apos; to &apos;fc1553lib&apos;" description="Rename resource &apos;mylib&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/mylib" name="fc1553lib" stamp="1680254007047" updateReferences="true"/>
+</session>

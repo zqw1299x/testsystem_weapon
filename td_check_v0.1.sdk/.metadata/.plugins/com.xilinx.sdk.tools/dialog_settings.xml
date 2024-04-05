@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="qspi-x4-single" key="bd_top_wrapper_hw_platform_0-flashType"/>
+	<item value="bd_top_wrapper_hw_platform_0" key="programflash.hwplatform"/>
+	<item value="D:\WorkFile\206Proj_20230105\1553_rt_v0331_0089_night_ok\prj\td_check_v0.1\td_check_v0.1.sdk\FSBL\bootimage\BOOT.bin" key="bd_top_wrapper_hw_platform_0-imgFile"/>
+	<item value="false" key="bd_top_wrapper_hw_platform_0-verifyFlash"/>
+	<item value="Auto Detect" key="bd_top_wrapper_hw_platform_0-device"/>
+	<item value="Local" key="bd_top_wrapper_hw_platform_0-target"/>
+	<item value="D:\WorkFile\206Proj_20230105\1553_rt_v0331_0089_night_ok\prj\td_check_v0.1\td_check_v0.1.sdk\FSBL\Debug\FSBL.elf" key="bd_top_wrapper_hw_platform_0-fsblFile"/>
+	<item value="" key="bd_top_wrapper_hw_platform_0-offSet"/>
+	<item value="false" key="bd_top_wrapper_hw_platform_0-blankCheck"/>
+</section>
